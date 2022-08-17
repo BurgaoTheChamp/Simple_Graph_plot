@@ -1,5 +1,5 @@
 This is an easy way to plot graph in python which i used to plot a graph
-of my aerodynamic study of a fourma 1 car computacional fluid simulation 
+of my aerodynamic study of a formula 1 car computacional fluid simulation 
 for finite elements class in my college
 
 <!---
